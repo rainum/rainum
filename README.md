@@ -1,6 +1,6 @@
 ## Education/Work
 
-I'm currently an Engineering Manager at [SmartBear](https://smartbear.com), a company that builds Software Testing, Monitoring, and Developer Tools. I spent most of my time solving complex issues and mentoring. I live in the Ukraine. I've got a master's degree in computer science.
+I work as an Engineering Manager at [SmartBear](https://smartbear.com), a company that builds software for Testing, Monitoring, and Developer Tools. I spent most of my time solving complex issues and mentoring. I've got a master's degree in computer science. I live in the Ukraine.
 
 ## Technologies
 
